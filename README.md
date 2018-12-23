@@ -7,6 +7,8 @@ Computer_Structure - MIPS_Assembly_Programming
 <img src="./2.jpg">
 
 <h3> Solving </h3>
+
+
 You must execute mars emulator.
 Next, you load "2013013017.c" source on your mars emulator.
 
