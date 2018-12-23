@@ -3,8 +3,8 @@ Computer_Structure - MIPS_Assembly_Programming
 
 <h2> Computer Structre </h2>  
 <h3> Problem </h3> 
-<img src= "./1.JPG">
-<img src="./2.JPG">
+<img src= "./1.jpg">
+<img src="./2.jpg">
 
 <h3> Solving </h3>
 You must execute mars emulator.
